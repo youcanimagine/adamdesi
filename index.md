@@ -167,7 +167,6 @@
 					</p>
 					<!-- EDIT: address -->
 					<p><t>Address</t><br/>
-						101 Mattingly Tr. <br/>
 						Georgetown, KY, 40324 <br/>
 						United States of America<br/>
 					</p>
